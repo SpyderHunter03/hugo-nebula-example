@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://nebula.tristangoetz.me"
+baseURL = "https://nebula.tristangoetz.me"
 title = "Nebula | Hugo blog template"
 theme = "nebula"
 languageName = "En"
